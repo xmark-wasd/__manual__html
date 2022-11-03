@@ -8,6 +8,7 @@
 - `<head>`
     - [`<base>`](https://github.com/xmark-wasd/html-draft-2/blob/main/head.md)
     - `<meta>`
+    - `<link>`
     - `<style>`
     - `<script>`
     - `<title>`
