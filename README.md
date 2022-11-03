@@ -7,7 +7,7 @@
 - `<html>`
 - `<head>`
     - [`<base>`](https://github.com/xmark-wasd/html-draft-2/blob/main/base.md)
-    - `<meta>`
+    - [`<meta>`](https://github.com/xmark-wasd/html-draft-2/blob/main/meta.md)
     - `<link>`
     - `<style>`
     - `<script>
