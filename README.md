@@ -11,6 +11,14 @@
     - `<link>`
     - `<style>`
     - `<script>`
+        - ```html
+            src
+            type
+            language
+            async
+            defer
+    
+          ```
     - `<title>`
 - `<body>`
     - <-- текст -->
