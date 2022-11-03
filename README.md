@@ -10,15 +10,7 @@
     - `<meta>`
     - `<link>`
     - `<style>`
-    - ```html
-      <script
-        src=""
-        type=""
-        async
-        defer
-      >
-      ```
-
+    - `<script>
     - `<title>`
 - `<body>`
     - <-- текст -->
