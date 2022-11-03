@@ -6,7 +6,7 @@
 - `<!-DOCTYPE>`
 - `<html>`
 - `<head>`
-    - [`<base>`](https://github.com/xmark-wasd/html-draft-2/blob/main/head.md)
+    - [`<base>`](https://github.com/xmark-wasd/html-draft-2/blob/main/base.md)
     - `<meta>`
     - `<link>`
     - `<style>`
